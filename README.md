@@ -21,12 +21,13 @@ The Intelligent Math Tutor is designed to address the inefficiencies in traditio
 ![feedback examples](example/feedbacks.png)
 
 ## Models
-- finetune_10_id = "ft:gpt-3.5-turbo-0125:tum-sot-hctl::9VgFsUc6"
-- finetune_30_id = "ft:gpt-3.5-turbo-0125:tum-sot-hctl::9VkmZOnF"
-- finetune_30_7_epoch_id = "ft:gpt-3.5-turbo-0125:tum-sot-hctl::9VlDGOVf"
 
-- finetune_10_revised_id = "ft:gpt-3.5-turbo-0125:tum-sot-hctl::9WPLg998"
-- finetune_26_revised_id = "ft:gpt-3.5-turbo-0125:tum-sot-hctl::9WSuUaI6"
+| Model Name              | Model ID                                      |
+|-------------------------|-----------------------------------------------|
+| FT10          | `ft:gpt-3.5-turbo-0125:tum-sot-hctl::9VgFsUc6`|
+| FT30          | `ft:gpt-3.5-turbo-0125:tum-sot-hctl::9VkmZOnF`|
+| FT30E10  | `ft:gpt-3.5-turbo-0125:tum-sot-hctl::9VlDGOVf`|
+| **FT10_revised**  | `ft:gpt-3.5-turbo-0125:tum-sot-hctl::9WPLg998`|
 
 ## How to Install and Run the Project
 
